@@ -1,16 +1,10 @@
-# destini
+# Destini
 
-A new Flutter project.
+## A really cool and fun story game
 
-## Getting Started
+This app is bascally an app that tells a story and gives you the prompt to choose how the story will go.
 
-This project is a starting point for a Flutter application.
+Here is a video snippet:
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/109692895/236060510-8650d8fa-d10c-4239-9c8e-8369de3faef0.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
